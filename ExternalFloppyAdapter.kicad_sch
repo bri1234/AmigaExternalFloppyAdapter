@@ -10494,7 +10494,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Amiga500:ExternalFloppyConnector"
+		(property "Footprint" "Amiga500:ExternalFloppyConnectorEdgeMount"
 			(at 35.56 91.44 0)
 			(effects
 				(font
